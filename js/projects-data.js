@@ -9,6 +9,134 @@ window.PROJECTS = [
     image: "images/projects/2.png"
   },
   {
+    title: "Bsod",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/BSOD.png"
+  },
+  {
+    title: "Chfi S",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Chfi%20S.jpg"
+  },
+  {
+    title: "Chfi",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/CHFI.jpg"
+  },
+  {
+    title: "Comptia",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Comptia.png"
+  },
+  {
+    title: "Digital Short Youtube",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Digital%20short%20youtube.jpg"
+  },
+  {
+    title: "Digital",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Digital.jpg"
+  },
+  {
+    title: "Etherchanel",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/ETHERCHANEL.png"
+  },
+  {
+    title: "Hiren Boo Cd",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/hIREN%20BOO%20CD.png"
+  },
+  {
+    title: "Jitbit",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Jitbit.png"
+  },
+  {
+    title: "Mikrotec",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Mikrotec.png"
+  },
+  {
+    title: "Mirza Numair",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Mirza%20Numair.jpg"
+  },
+  {
+    title: "Network Throughput",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Network%20THROUGHPUT.png"
+  },
+  {
+    title: "Network",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Network.png"
+  },
+  {
+    title: "Nvidia",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Nvidia.jpg"
+  },
+  {
+    title: "Openwisp",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Openwisp.png"
+  },
+  {
+    title: "P2v Thumbnail",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/P2v%20Thumbnail.png"
+  },
+  {
     title: "Project One",
     description: "Short description of project one: what it does and the problem it solves.",
     tech: ["HTML", "CSS", "JavaScript"],
@@ -39,5 +167,21 @@ window.PROJECTS = [
     live: "",
     github: "",
     image: "images/projects/Test3.png"
+  },
+  {
+    title: "Ventoy Alternet",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/Ventoy%20alternet.png"
+  },
+  {
+    title: "Winpe",
+    description: "Add a short description here.",
+    tech: [],
+    live: "",
+    github: "",
+    image: "images/projects/winpe.png"
   }
 ];
